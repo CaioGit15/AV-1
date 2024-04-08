@@ -44,3 +44,6 @@ Principais recursos do VSCode:
 
 <img src="https://yt3.googleusercontent.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj" alt="Texto alternativo" width="300" height="200">
 
+## Fontes
+
+[ChatGPT](https://chat.openai.com/)
